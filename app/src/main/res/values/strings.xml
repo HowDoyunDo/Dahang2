@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tourSearchEngin</string>
+    <string name="limit">위치정보 권한을 승인하지 않았습니다.</string>
+</resources>
